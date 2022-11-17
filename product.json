@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "img": "./assets/images/thumb_product.png",
+        "title": "Product-Title",
+        "description": "Space for a small product description",
+        "price": "48.56",
+        "discount": "-36%",
+        "discountPrice": "1.48"
+    },
+    {
+        "id": "2",
+        "img": "./assets/images/thumb_product.png",
+        "title": "Product-Title",
+        "description": "Space for a small product description",
+        "price": "48.56",
+        "discount": "-36%",
+        "discountPrice": "1.48"
+    },
+    {
+        "id": "3",
+        "img": "./assets/images/thumb_product.png",
+        "title": "Product-Title",
+        "description": "Space for a small product description",
+        "price": "48.56",
+        "discount": "-36%",
+        "discountPrice": "1.48"
+    },
+    {
+        "id": "4",
+        "img": "./assets/images/thumb_product.png",
+        "title": "Product-Title",
+        "description": "Space for a small product description",
+        "price": "48.56",
+        "discount": "-36%",
+        "discountPrice": "1.48"
+    },
+    {
+        "id": "5",
+        "img": "./assets/images/thumb_product.png",
+        "title": "Product-Title",
+        "description": "Space for a small product description",
+        "price": "48.56",
+        "discount": "-36%",
+        "discountPrice": "1.48"
+    },
+    {
+        "id": "6",
+        "img": "./assets/images/thumb_product.png",
+        "title": "Product-Title",
+        "description": "Space for a small product description",
+        "price": "48.56",
+        "discount": "-36%",
+        "discountPrice": "1.48"
+    },
+    {
+        "id": "7",
+        "img": "./assets/images/thumb_product.png",
+        "title": "Product-Title",
+        "description": "Space for a small product description",
+        "price": "48.56",
+        "discount": "-36%",
+        "discountPrice": "1.48"
+    },
+    {
+        "id": "8",
+        "img": "./assets/images/thumb_product.png",
+        "title": "Product-Title",
+        "description": "Space for a small product description",
+        "price": "48.56",
+        "discount": "-36%",
+        "discountPrice": "1.48"
+    }
+]
